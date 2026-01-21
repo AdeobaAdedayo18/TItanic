@@ -1,0 +1,6 @@
+Name: Antigravity AI
+Matric Number: 001
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Joblib
+Live URL of the hosted application: [PENDING_DEPLOYMENT]
+GitHub repository link: [PENDING_GITHUB_UPLOAD]
